@@ -5,11 +5,11 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**University of Me**
 
-**College**
+**College of Learn U**
 
-**Unit**
+**Unit Boom**
 
 ## Course Number: Course Title
 
